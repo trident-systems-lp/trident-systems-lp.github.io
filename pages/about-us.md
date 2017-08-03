@@ -1,29 +1,44 @@
+- title: Home
+  url: "/"
+  side: left
 
-title: "About Us"
-layout: page
-show_meta: false
-header:
-    title: Our Mission
-       
-teaser: "Trident Systems was established in 2012."
-header:
-   image_fullwidth: "header_homepage_13.jpg"
-permalink: "/about-us/"
----
-1. Open `_config.yml` and work it through, it's well documented
-1. Add your own `logo.png` to `/assets/img/`.
-1. Open `_data/socialmedia.yml` and add your own social media links.
-1. Open `_data/navigation.yml` and customize your navigation.
-1. Open `_data/language.yml` and translate the theme if necessary.
-1. Open `_data/services.yml` and customize links in the footer.
-1. Open `_data/network.yml` and customize links in the footer.
-1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
-1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
-1. Make it yours and add your own content.
+- title: About Us
+  url: "/about-us/"
+  side: left
+  dropdown:
+  - title: "Our Mission"
+    url: "/about-us/our-mission"
+ 
+- title: "Our People"
+  url: "/about-us/our-people"
+  side: left
+  dropdown:
+  - title: "Our Board"
+    url: "/about-us/our-people/our-board/"
+  
+-  title: "Our Partners"
+    url: "/about-us/our-partners"
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
+- title: Documentation
+  url: "/documentation/"
+  side: left
+  dropdown:
+  - title: "Changelog"
+    url: "/changelog/"
+  - title: "Roadmap"
+    url: "/roadmap/"
 
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
-image_fullwidth: unsplash_brooklyn-bridge_header.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/---
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
