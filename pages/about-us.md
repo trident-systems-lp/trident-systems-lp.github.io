@@ -1,9 +1,9 @@
 ---
 layout: page
 show_meta: false
-title: "Getting Started"
-subheadline: "A Step-by-Step Guide"
-teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+title: "About Us"
+subheadline: "Who We Are"
+teaser: "Trident Systems was established in 2012 when a group of quota owners, together with Seafood Innovations Ltd, provided R&D funding to establish systems and processes that supported effective and efficient fisheries management."
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/about-us/"
