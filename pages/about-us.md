@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "About Us"
 subheadline: "Who We Are"
-teaser: "Trident Systems was established in 2012 when a group of quota owners, together with Seafood Innovations Ltd, provided R&D funding to establish systems and processes that supported effective and efficient fisheries management."
+teaser: "Trident Systems was established in 2012."
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/about-us/"
@@ -20,6 +20,5 @@ permalink: "/about-us/"
 1. Make it yours and add your own content.
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
-
 
  [1]: {{ site.url }}{{ site.baseurl }}/documentation/
