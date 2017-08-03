@@ -2,7 +2,6 @@
 layout: page
 show_meta: false
 title: "About Us"
-<H3>"Our Mission"/<H3>
 teaser: "Trident Systems was established in 2012."
 header:
    image_fullwidth: "header_homepage_13.jpg"
