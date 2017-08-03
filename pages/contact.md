@@ -1,10 +1,7 @@
 ---
 layout: page
 title: "Contact Us"
-meta_title: "Use our contact form"
-permalink: "/contact/"
-<div id="wufoo-z18tml1d08s53ax">
-Fill out my <a href="https://carahalford.wufoo.com/forms/z18tml1d08s53ax">online form</a>.
+
 </div>
 <div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">There are tons of <a href="http://www.wufoo.com/features/">Wufoo features</a> to help make your forms awesome.</div>
 <script type="text/javascript">var z18tml1d08s53ax;(function(d, t) {
