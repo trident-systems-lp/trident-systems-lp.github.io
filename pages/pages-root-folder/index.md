@@ -16,15 +16,16 @@ widget2:
   title: "Apply"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   text: 'We apply these systems and processes to provide stock and/or fishery-specific research services that support timely and efficient fisheries management decision making.'
+  image: apply_widget.jpg
 widget3:
   title: "Collaborate"
   url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
+  image: collaborate_widget.jpg
   text: 'We carry out these activities in a manner that efficiently utilises industry resources, and supports industry involvement in fisheries management processes.'
 widget4:
   title: "Support"
   url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
+  image: support_widget.jpg
   text: 'We ensure a broad base of industry commitment to the development of its systems and processes, and the utilisation of the results of applying these systems and processes.'
 #
 # Use the call for action to show a button on the frontpage
