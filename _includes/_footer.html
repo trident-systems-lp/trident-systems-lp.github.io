@@ -9,67 +9,50 @@
       <div id="footer">
         <div class="row">
           <div class="medium-6 large-5 columns">
+            <h5 class="shadow-black">See our other services</h5>
+            <ul><li><a href="www.example.com">FISHERIES OF NZ</a></li></ul>
             <h5 class="shadow-black">{{ site.data.language.info_website }}</h5>
-
-            <p class="shadow-black">
-              {{ site.description }}
-              <a href="{{ site.url }}{{ site.baseurl }}/info/">{{ site.data.language.more }}</a>
-            </p>
           </div><!-- /.large-6.columns -->
 
 
-          <div class="small-6 medium-3 large-3 large-offset-1 columns">
-            {% for service_item in site.data.services %}
-              {% if forloop.first == true %}
-                <h5 class="shadow-black">{{ service_item.menu_name }}</h5>
-              {% endif %}
-            {% endfor %}
-
-              <ul class="no-bullet shadow-black">
-              {% for service_item in site.data.services %}
-                {% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
-                  <li {% if service_item.class %}class="{{ service_item.class }}" {% endif %}>
-                    <a href="{{ domain }}{{ service_item.url }}" {% if service_item.url contains 'http' %}target="_blank" {% endif %} title="{{ service_item.title }}">{{ service_item.name }}</a>
-                  </li>
-              {% endfor %}
-              </ul>
+          <div class="small-12 medium-6 large-6 large-offset-1 columns">
+            <div class="row">
+              <div class="small-9 column">
+                <h5 class="shadow-black">CONTACT US</h5>
+                <ul class="no-bullet">
+                  <li>info@tridentsystems.co.nz</li>
+                  <li>+64 4 385 4005</li>
+                </ul>
+              </div>
+              <div class="small-3 column">
+                <p># Put trident logo here</p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="small-6 column">
+                <ul class="no-bullet">
+                  <li>Postal address</li>
+                  <li>Trident Systems LP</li>
+                  <li>PO Box 297</li>
+                  <li>Wellington 6140</li>
+                  <li>New Zealand</li>
+                </ul>
+              </div>
+              <div class="small-6 column">
+                <ul class="no-bullet">
+                  <li>Physical address</li>
+                  <li>Level 6, 155 Victoria Street</li>
+                  <li>Wellington 6011</li>
+                  <li>New Zealand</li>
+                </ul>
+              </div>
+            </div>
           </div><!-- /.large-4.columns -->
 
 
-          <div class="small-6 medium-3 large-3 columns">
-            {% for network_item in site.data.network %}
-              {% if forloop.first == true %}
-                <h5 class="shadow-black">{{ network_item.menu_name }}</h5>
-              {% endif %}
-            {% endfor %}
-
-            <ul class="no-bullet shadow-black">
-            {% for network_item in site.data.network %}
-              {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
-                <li {% if network_item.class %}class="{{ network_item.class }}" {% endif %}>
-                  <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
-                </li>
-            {% endfor %}
-            </ul>
-          </div><!-- /.large-3.columns -->
         </div><!-- /.row -->
 
       </div><!-- /#footer -->
 
 
-      <div id="subfooter">
-        <nav class="row">
-          <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            {{ site.credits }}
-          </section>
-
-          <section id="subfooter-right" class="small-12 medium-6 columns">
-            <ul class="inline-list social-icons">
-            {% for social_item in site.data.socialmedia %}
-              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
-            {% endfor %}
-            </ul>
-          </section>
-        </nav>
-      </div><!-- /#subfooter -->
     </footer>
