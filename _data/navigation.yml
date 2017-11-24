@@ -7,22 +7,22 @@
   side: right
   dropdown:
   - title: "Our Mission"
-  - url: "/about-us/our-mission/"
+    url: "/about-us/mission/"
   - title: "Our People"
-  - url: "/about-us/our-people/"
+    url: "/about-us/people/"
   - title: "Our Partners"
-  - url: "/about-us/our-partners/"
+    url: "/about-us/partners/"
 
 - title: Our Work
   url: "/our-work/"
   side: right
   dropdown:
   - title: "Collecting Fisheries Data"
-  - url: "/our-work/collecting-data/"
+    url: "/our-work/collecting-data/"
   - title: "Using Fisheries Data"
-  - url: "/our-work/using-data/"
+    url: "/our-work/using-data/"
   - title: "Effective Fisheries Management"
-  - url: "/our-work/effective-management/"
+    url: "/our-work/effective-management/"
 
 - title: News
   url: "/news/"

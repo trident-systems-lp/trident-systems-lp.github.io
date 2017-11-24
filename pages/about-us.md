@@ -2,7 +2,6 @@
 layout: page
 title: "About Us"
 permalink: "/about-us/"
-header: no
 subheadline: "Over 5 years of development, partnerships and production."
 ---
 Trident Systems was established in 2012 to provide high quality research services supporting the

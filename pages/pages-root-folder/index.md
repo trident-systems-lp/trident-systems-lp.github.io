@@ -38,11 +38,6 @@ widget4:
 # To change colors see sass/_01_settings_colors.scss
 #
 permalink: /index.html
-#
-# This is a nasty hack to make the navigation highlight
-# this page as active in the topbar navigation
-#
-homepage: true
 ---
 
 <div class="row">
@@ -56,11 +51,4 @@ homepage: true
     <p>Find out more about who is part of the Trident Systems team and how we go about developing our work as well as who else we work with.</p>
     <p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/about-us/">{{ site.data.language.more }}</a></p>
   </div>
-</div>
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
 </div>
