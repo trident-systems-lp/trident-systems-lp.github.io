@@ -16,3 +16,8 @@ systems and processes, using these to address fisheries management information n
 
 > "Trident is leading in their field"
 > - John Smith, UBEE Enterprises
+
+<div id="banner"></div>
+
+### Blah
+Some stuff after the banner

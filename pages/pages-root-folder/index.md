@@ -40,15 +40,14 @@ widget4:
 permalink: /index.html
 ---
 
-<div class="row">
-  <div class="medium-6 medium-push-6 columns">
-    <h3>About Us</h3>
-    <p>Find out more about who is part of the Trident Systems team and how we go about developing our work as well as who else we work with.</p>
-    <p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/about-us/">{{ site.data.language.more }}</a></p>
-  </div>
-  <div class="medium-6 medium-pull-6 columns">
-    <h3>Our Work</h3>
-    <p>Find out more about who is part of the Trident Systems team and how we go about developing our work as well as who else we work with.</p>
-    <p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/about-us/">{{ site.data.language.more }}</a></p>
-  </div>
+
+<div class="medium-6 medium-push-6 columns">
+<h3>About Us</h3>
+<p>Find out more about who is part of the Trident Systems team and how we go about developing our work as well as who else we work with.</p>
+<p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/about-us/">{{ site.data.language.more }}</a></p>
 </div>
+<div class="medium-6 medium-pull-6 columns">
+<h3>Our Work</h3>
+<p>Find out more about who is part of the Trident Systems team and how we go about developing our work as well as who else we work with.</p>
+<p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/about-us/">{{ site.data.language.more }}</a></p>
+  </div>
