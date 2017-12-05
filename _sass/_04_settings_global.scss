@@ -457,7 +457,7 @@ $crumb-slash: "/";
 // $button-border-width: 0px;
 // $button-border-style: solid;
 // $button-bg-color: $primary-color;
-// $button-bg-hover: scale-color($button-bg-color, $lightness: $button-function-factor);
+$button-bg-hover: $ci-6;
 // $button-border-color: $button-bg-hover;
 // $secondary-button-bg-hover: scale-color($secondary-color, $lightness: $button-function-factor);
 // $secondary-button-border-color: $secondary-button-bg-hover;
@@ -1399,7 +1399,7 @@ $topbar-title-font-size: rem-calc(19);
 $topbar-link-font-size: rem-calc(15);
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
 // $topbar-link-bg: $topbar-bg;
-// $topbar-link-bg-color-hover: #ff0;
+// $topbar-link-bg-color-hover: $ci-1;
 // $topbar-link-bg-hover: #f00;
 // $topbar-link-bg-active: $primary-color;
 // $topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);

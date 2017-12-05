@@ -312,7 +312,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
       }
 
       ul li {
-        background: $topbar-dropdown-bg;
+        background: $ci-2;
         & > a {
           display: block;
           width: 100%;

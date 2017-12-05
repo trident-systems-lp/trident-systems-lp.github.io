@@ -38,6 +38,7 @@ widget4:
 # To change colors see sass/_01_settings_colors.scss
 #
 permalink: /index.html
+homepage: true
 ---
 
 

@@ -48,12 +48,14 @@ sitemap:
 
 @import "11_syntax-highlighting.scss";
 
-div.frontpage-widget {
-    height: 100%;
+.frontpage-widget {
+    top: 0;
+    bottom: 0;
     img { border-radius: 50%; }
     h2, p { text-align: center; }
     a.button {
         width: 100%;
+        button: 0;
     }
     a.button:hover {
         background-colour: $ci-6;
