@@ -209,8 +209,13 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
             font-weight: $topbar-title-weight;
             color: $topbar-link-color;
             width: 75%;
-            display: block;
+            display: initial;
             padding: 0 $topbar-link-padding;
+          }
+          img {
+            height: 19px;
+            position: relative;
+            bottom: 3px;
           }
         }
       }

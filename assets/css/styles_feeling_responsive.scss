@@ -48,16 +48,27 @@ sitemap:
 
 @import "11_syntax-highlighting.scss";
 
+.widgets {
+    display: flex;
+    align-items: stretch;
+    @media #{$small-only} {
+        flex-direction: column;
+    }
+}
+
 .frontpage-widget {
-    top: 0;
-    bottom: 0;
+    padding-bottom: 60px;
     img { border-radius: 50%; }
     h2, p { text-align: center; }
     a.button {
-        width: 100%;
-        button: 0;
-    }
-    a.button:hover {
-        background-colour: $ci-6;
+        position: absolute;
+        bottom: 0;
+        left: 10px;
+        right: 10px;
+        padding-left: 1em;
+        padding-right: 1em;
+        &:hover {
+            background-colour: $ci-6;
+        }
     }
 }
