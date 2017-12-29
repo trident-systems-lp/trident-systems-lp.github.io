@@ -21,10 +21,10 @@ widget3:
   title: "Collaborate"
   url: '/about-us/'
   image: collaborate_widget.jpg
-  text: 'We carry out these activities in a manner that efficiently utilises industry resources, and supports industry involvement in fisheries management processes.'
+  text: 'We carry out these activities in collaboration with other researchers, efficiently utilising industry resources, and supporting industry involvement in fisheries management processes.'
 widget4:
   title: "Support"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: '/about-us/'
   image: support_widget.jpg
   text: 'We ensure a broad base of industry commitment to the development of our systems and processes, and using the results generated.'
 #
@@ -44,12 +44,12 @@ homepage: true
 
 <div class="medium-6 medium-push-6 columns">
   <h3>About Us</h3>
-    <p>Find out more about the projects undertaken by Trident Systems, how we work, and the systems and processes we have developed.</p>
-    <p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/our-work/">{{ site.data.language.more }}</a></p>
+    <p>Find out more about the philosophy and structure of Trident Systems, the members of our team, and who we work with.</p>
+    <p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/about-us/">{{ site.data.language.more }}</a></p>  
 </div>
 
 <div class="medium-6 medium-pull-6 columns">
   <h3>Our Work</h3>
-    <p>Find out more about the structure of Trident Systems, the members of our team, and who we work with.</p>
-    <p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/about-us/">{{ site.data.language.more }}</a></p>
+    <p>Find out more about the projects undertaken by Trident Systems, how we work, and the systems and processes we have developed.</p>
+    <p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/our-work/">{{ site.data.language.more }}</a></p>
 </div>
