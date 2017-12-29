@@ -9,24 +9,24 @@ header:
   image_fullwidth: homepage_header.jpg
 widget1:
   title: "Develop"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: '/our-work/'
   image: develop_widget.jpg
-  text: 'We develop innovative systems and processes for efficient data collection, promotion of data value and implementation into fisheries management systems.'
+  text: 'We develop innovative systems and processes for efficient data collection, achieving greater value from data, and implementing effective fisheries management.'
 widget2:
   title: "Apply"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: '/about-us/'
   text: 'We apply these systems and processes to provide stock and/or fishery-specific research services that support timely and efficient fisheries management decision making.'
   image: apply_widget.jpg
 widget3:
   title: "Collaborate"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: '/about-us/'
   image: collaborate_widget.jpg
   text: 'We carry out these activities in a manner that efficiently utilises industry resources, and supports industry involvement in fisheries management processes.'
 widget4:
   title: "Support"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: support_widget.jpg
-  text: 'We ensure a broad base of industry commitment to the development of its systems and processes, and the utilisation of the results of applying these systems and processes.'
+  text: 'We ensure a broad base of industry commitment to the development of our systems and processes, and using the results generated.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -43,12 +43,13 @@ homepage: true
 
 
 <div class="medium-6 medium-push-6 columns">
-<h3>About Us</h3>
-<p>Find out more about who is part of the Trident Systems team and how we go about developing our work as well as who else we work with.</p>
-<p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/about-us/">{{ site.data.language.more }}</a></p>
+  <h3>About Us</h3>
+    <p>Find out more about the projects undertaken by Trident Systems, how we work, and the systems and processes we have developed.</p>
+    <p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/our-work/">{{ site.data.language.more }}</a></p>
 </div>
+
 <div class="medium-6 medium-pull-6 columns">
-<h3>Our Work</h3>
-<p>Find out more about who is part of the Trident Systems team and how we go about developing our work as well as who else we work with.</p>
-<p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/about-us/">{{ site.data.language.more }}</a></p>
-  </div>
+  <h3>Our Work</h3>
+    <p>Find out more about the structure of Trident Systems, the members of our team, and who we work with.</p>
+    <p><a class="button tiny radius" href="{{ site.url }}{{ site.baseurl }}/about-us/">{{ site.data.language.more }}</a></p>
+</div>
