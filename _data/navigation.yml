@@ -6,8 +6,8 @@
   url: "/about-us/"
   side: right
   dropdown:
-  - title: "Our Mission"
-    url: "/about-us/mission/"
+  - title: "Our Approach"
+    url: "/about-us/approach/"
   - title: "Our People"
     url: "/about-us/people/"
   - title: "Our Partners"
