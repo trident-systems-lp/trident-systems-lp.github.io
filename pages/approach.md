@@ -11,9 +11,8 @@ Trident Systems is a seafood industry owned research provider.  New Zealand's
 quota management system (QMS) provides strong incentives for industry
 organisations to be involved in delivery of services.
 
-{% include alert info='The QMS establishes Individual Transferable Quota
-   (ITQ) in New Zealand's commercial fisheries. ITQs are a form of property
-   right' %}
+{% include alert info='The QMS establishes Individual Transferable Quota (ITQ)
+   in New Zealand\'s commercial fisheries. ITQs are a form of property right' %}
 
 > "It is often suggested that the possession of ITQs should provide an
 > incentive for fishers to exercise stewardship of the resource. Quota holders
@@ -22,7 +21,7 @@ organisations to be involved in delivery of services.
 > the present value of future profit streams."
 > - Parslow (2010)[^1]
 
-[^1]: 
+[^1]:
   Parslow, J. (2010). Individual transferable quotas and the "tragedy of
   the commons". Canadian Journal of Fisheries and Aquatic Sciences,
   67(11), 1889-1896.
