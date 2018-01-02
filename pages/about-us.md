@@ -3,6 +3,9 @@ layout: page
 title: "About Us"
 permalink: "/about-us/"
 subheadline: "Over 5 years of development, partnerships and production."
+header: no
+image:
+    title: TridentSystems_logo_full.png
 ---
 Trident Systems was established in 2012 to provide high quality research
 services supporting the effective and efficient management of New Zealand’s
@@ -23,9 +26,11 @@ management information needs.
 Trident Systems is a Limited Partnership, owned by thirteen limited partners
 and governed by the board of Trident Systems General Partner Limited.
 
-Trident has a small staff, and works with a number research collaborators. 
+Trident has a small staff, and works with a number research collaborators.
 
 ### Further information
+
+Read more about:
 
 + [Our Approach](/about-us/approach/ "Our Approach")
 + [Our People](/about-us/people/ "Our People")
