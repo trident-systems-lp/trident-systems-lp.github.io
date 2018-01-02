@@ -42,8 +42,27 @@ industry organisations to be involved in delivery of services.
 > more efficiently than the government."
 > - Arnason (2007)[^2]
 
-{% include alert warning='The value of ITQs is not universally accepted\: see,
-   for example, Bromley (2010) and the accompanying comments[^3].' %}
+{% include alert warning='The importance of ITQs in fisheries management is
+   not universally accepted' %}
+
+Bromley (2009)[^3] is critical of the importance attributed to ITQs in
+fisheries management (note the comments and discussion published alongside
+that paper).  However, secure property rights continue to be identified as
+key components of sustainable fisheries management regimes.
+Holmes et al. (2014)[^4] suggest three key enablers of sustainable and
+profitable fisheries:
+
++ **Secure tenure** aligns the incentives and empowers the fishing industry to
+  pursue sustainable use of the resource
++ **Sustainable harvests** determine how much fish can be caught sustainably and
+  enable the creation of both management and investment frameworks
++ **Monitoring and enforcement** provide assurance that fishers will comply with
+  sustainable management and reduce the chance of illegal activity that could
+  undermine the transition
+
+{% include alert success='The establishment of Trident Systems is an example
+   of quota owners investing to provide information that contributes to the
+   setting of sustainable harvests and efficient monitoring of fisheries' %}
 
 [^1]: Parslow, J. (2010). Individual transferable quotas and the "tragedy of
       the commons". *Canadian Journal of Fisheries and Aquatic Sciences*,
@@ -54,3 +73,8 @@ industry organisations to be involved in delivery of services.
 
 [^3]: Bromley, D. W. (2009). Abdicating responsibility: the deceits of
       fisheries policy. *Fisheries*, 34(6), 280-290.
+
+[^4]: Holmes, L., Strauss, C. K., de Vos, K., & Bonzon, K. (2014). *Towards
+      investment in sustainable fisheries: a framework for financing the
+      transition.* Environmental Defense Fund and The Prince of Wales'
+      International Sustainability Unit.
