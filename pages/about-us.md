@@ -32,6 +32,8 @@ Trident has a small staff, and works with a number research collaborators.
 
 Read more about:
 
-+ [Our Approach](/about-us/approach/ "Our Approach")
++ The [rationale](/about-us/rationale/ "Rationale for Trident") for establishing
+  Trident Systems
++ [Our Approach](/about-us/approach/ "Our Approach") to fisheries research
 + [Our People](/about-us/people/ "Our People")
 + [Our Partners](/about-us/partners/ "Our Partners")

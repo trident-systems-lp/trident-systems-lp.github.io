@@ -6,6 +6,8 @@
   url: "/about-us/"
   side: right
   dropdown:
+  - title: "Rationale"
+    url: "/about-us/rationale/"
   - title: "Our Approach"
     url: "/about-us/approach/"
   - title: "Our People"
