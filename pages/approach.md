@@ -42,7 +42,8 @@ industry organisations to be involved in delivery of services.
 > more efficiently than the government."
 > - Arnason (2007)[^2]
 
-{% include alert warning='The value of ITQs is not universally accepted.' %}
+{% include alert warning='The value of ITQs is not universally accepted\: see,
+   for example, Bromley (2010) and the accompanying comments[^3].' %}
 
 [^1]: Parslow, J. (2010). Individual transferable quotas and the "tragedy of
       the commons". *Canadian Journal of Fisheries and Aquatic Sciences*,
@@ -50,3 +51,6 @@ industry organisations to be involved in delivery of services.
 
 [^2]: Arnason, R. (2007). Fisheries self-management under ITQs.
       *Marine Resource Economics*, 22(4), 373-390.
+
+[^3]: Bromley, D. W. (2009). Abdicating responsibility: the deceits of
+      fisheries policy. *Fisheries*, 34(6), 280-290.
