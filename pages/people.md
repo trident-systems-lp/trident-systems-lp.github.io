@@ -3,6 +3,32 @@ layout: page
 title: "Our People"
 permalink: "/about-us/people/"
 ---
-Trident Systems is a Limited Partnership with funding for our R&D programme provided by our Limited Partners, together with co-funding from Seafood Innovations Limited. Trident Systems is governed by the Board of Trident Systems General Partner Limited.
 
-Our R&D programme, and the delivery of stock-specific services, is undertaken in collaboration with several independent research providers and we are working with the Ministry for Primary Industries to ensure that our research makes a real contribution to the management of New Zealand’s fisheries.
+<div class="row t90">
+    <div class="small-12 columns">
+        <h2>Our Directors</h2>
+        <p class="teaser">Trident Systems is governed by the Board of Trident Systems General Partner
+        Limited.</p>
+    </div><!-- /.small-12.columns -->
+</div>
+
+<div class="row">
+<div class="small-2 columns">
+  <img src="/images/tri-systems-people-jeremy.jpg">
+</div>
+<div class="small-2 columns">
+  <img src="/images/tri-systems-people-craig.jpg">
+</div>
+<div class="small-2 columns">
+  <img src="/images/tri-systems-people-maru.jpg">
+</div>
+<div class="small-2 columns">
+  <img src="/images/tri-systems-people-darryn.jpg">
+</div>
+<div class="small-2 columns">
+  <img src="/images/tri-systems-people-steve.jpg">
+</div>
+<div class="small-2 columns">
+  <img src="/images/tri-systems-people-colin.jpg">
+</div>
+</div>

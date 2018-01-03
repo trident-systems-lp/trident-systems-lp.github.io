@@ -2,7 +2,7 @@
 layout: page
 title: "About Us"
 permalink: "/about-us/"
-subheadline: "Over 5 years of development, partnerships and production."
+subheadline: "Over 5 years of development, partnerships and production"
 header: no
 image:
     title: TridentSystems_logo_full.png
@@ -34,6 +34,6 @@ Read more about:
 
 + The [rationale](/about-us/rationale/ "Rationale for Trident") for establishing
   Trident Systems
-+ [Our Approach](/about-us/approach/ "Our Approach") to fisheries research
-+ [Our People](/about-us/people/ "Our People")
-+ [Our Partners](/about-us/partners/ "Our Partners")
++ [Our approach](/about-us/approach/ "Our approach") to fisheries research
++ [Our people](/about-us/people/ "Our people")
++ [Our partners](/about-us/partners/ "Our partners")

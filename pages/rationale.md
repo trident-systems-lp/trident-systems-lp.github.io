@@ -72,7 +72,7 @@ Systems were:
 + the need for **efficient data collection for fisheries management**,
   especially from inshore finfish fisheries
 + a desire to **realise greater value from fisheries data**
-+ a recognition of the need to **evaluating and implement management
++ a recognition of the need to **evaluate and implement management
   procedures** to enable timely management of lower information stocks
 
 ### Research integrity
@@ -86,8 +86,8 @@ likely to inform fisheries management decisions is evaluated against the
 > of research and science information is peer review
 > - Ministry for Primary Industries (2011)[^5]
 
-The RSIS establishes peer review as the principal process used to ensure that
-the quality of scientific methods, results and conclusions.  As a result, the
+The RSIS establishes peer review as the principal process used to ensure the
+quality of scientific methods, results and conclusions.  As a result, the
 RSIS is intrinsically an output standard enabling a range of providers,
 including industry organisations and Non-Governmental Organisations, to carry
 out research that is evaluated against the Standard.
