@@ -12,18 +12,17 @@ Key characteristics of Trident's approach to fisheries research are:
 
 ### Collaboration
 
+From the outset, Trident Systems has focussed on working in collaboration with
+other research providers. As a result Trident has a
+[small core staff](/about-us/people/ "Our people") and a wide range of
+[collaborators](/about-us/partners/ "Our partners").
+
 > We hail individual geniuses, but success in science comes through
 > collaboration
 >
 > Bringing people together from diverse backgrounds leads to new ways of
 > thinking, better thinking and faster progress
 > - Jeremy Farrar, director, Wellcome Trust[^1]
-
-
-From the outset, Trident Systems has focussed on working in collaboration with
-other research providers. As a result Trident has a
-[small core staff](/about-us/people/ "Our people") and a wide range of
-[collaborators](/about-us/partners/ "Our partners").
 
 ### Transparency and reproducibility
 
