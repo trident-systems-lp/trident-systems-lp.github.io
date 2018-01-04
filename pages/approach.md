@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Our Approach"
+meta_title: "Trident Systems' approach"
 permalink: "/about-us/approach/"
 subheadline: "How Trident Systems operates"
 ---

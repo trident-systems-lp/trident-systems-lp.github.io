@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About Us"
+meta_title: "About Trident Systems"
 permalink: "/about-us/"
 subheadline: "Over 5 years of development, partnerships and production"
 header: no
