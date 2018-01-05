@@ -1,10 +1,37 @@
 - name: "Sanford Investments Ltd"
-  url: "http://www.example.com"
+  url: "http://www.sanford.co.nz"
+
 - name: "Moana Fishing Ltd"
-  url: "http://www.example.com"
+  url: "http://moana.co.nz"
+
 - name: "Charisma Developments Ltd"
-  url: "http://www.example.com"
+
 - name: "Independent Fisheries Ltd"
-  url: "http://www.example.com"
+  url: "http://www.indfish.co.nz"
+
 - name: "Star Fish Supply Ltd"
-  url: "http://www.example.com"
+  url: "http://www.starfoods.co.nz/star-fish-supply.html"
+
+- name: "Solander Maritime Ltd"
+  url: "http://solander.com"
+
+- name: "Chatham Islands Quota Holdings Ltd"
+  url: "http://www.chathams.co.nz/index.php/enterprise-trust"
+
+- name: "ICP Inshore ACE LP"
+  url: "http://www.iwicollective.co.nz/"
+
+- name: "Kahungunu Asset Holding Company Ltd"
+  url: "http://www.kahc.co.nz"
+
+- name: "Leigh Fisheries Ltd"
+  url: "http://www.leefish.com"
+
+- name: "Gisborne Fisheries 1955 Ltd"
+  url: "http://gisfish.co.nz"
+
+- name: "Urwin and Company Ltd"
+  url: "http://www.urwin.co.nz"
+
+- name: "Egmont Seafoods Ltd"
+  url: "http://www.egmontseafoods.co.nz"
