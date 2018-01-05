@@ -78,6 +78,12 @@ sitemap:
     justify-content: space-between;
 }
 
+.person {
+    p {
+        line-height: 1.1;
+    }
+}
+
 {% for group in site.data.groups %}
 #{{ group.name }} {
     .person {
