@@ -72,3 +72,16 @@ sitemap:
         }
     }
 }
+
+.people {
+    display: flex;
+    justify-content: space-between;
+}
+
+{% for group in site.data.groups %}
+#{{ group.name }} {
+    .person {
+        flex-basis: 90% / {{ group.people.size }}px * 1px;
+    }
+}
+{% endfor %}
