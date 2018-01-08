@@ -11,7 +11,7 @@ Research & Development (R&D)
 : R&D projects are funded by Trident's shareholders with the aim of developing innovative systems and processes that support of effective and efficient management of New Zealand fisheries.  Where possible, we obtain co-funding to support shareholder investment in R&D.
 
 Contracted research
-: Applying our R&D outcomes to provide contracted stock or fishery- specific research services.
+: Trident undertakes contracted research where we apply our R&D outcomes to provide contracted stock or fishery- specific research services.  We aim to provide high-quality research at a fair price.  Any margins are re-invested in Trident's R&D programme.
 
 Our R&D and contracted projects can both be categorised into three broad areas:
 
