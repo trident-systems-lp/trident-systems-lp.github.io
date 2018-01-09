@@ -35,3 +35,13 @@ Our R&D resulted in:
         <p>Training resources for samplers</p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
+
+Trident has been contracted to take part in catch sampling programmes for a range of fisheries, including:
++ snapper (SNA 1) longline
++ snapper (SNA 8) trawl
++ trevally (TRE 1,7) trawl
++ tarakihi (TAR 1,2) trawl
++ bluenose longline
++ albacore troll
++ jack mackerel (JMA 1) purse seine
++ blue cod (BCO 5) potting
