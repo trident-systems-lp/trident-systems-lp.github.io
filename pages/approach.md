@@ -18,17 +18,17 @@ other research providers. As a result Trident has a
 [small core staff](/about-us/people/ "Our people") and a wide range of
 [collaborators](/about-us/partners/ "Our partners").
 
-> We hail individual geniuses, but success in science comes through
+> "We hail individual geniuses, but success in science comes through
 > collaboration
 >
 > Bringing people together from diverse backgrounds leads to new ways of
-> thinking, better thinking and faster progress
+> thinking, better thinking and faster progress"
 > - Jeremy Farrar, director, Wellcome Trust[^1]
 
 ### Transparency and reproducibility
 
-> Transparency and reproducibility are the beating heart of the scientific
-> enterprise
+> "Transparency and reproducibility are the beating heart of the scientific
+> enterprise"
 > - Chambers & Nosek (2015)[^2]
 
 Trident aims to make fisheries data accessible and available for multiple use,
