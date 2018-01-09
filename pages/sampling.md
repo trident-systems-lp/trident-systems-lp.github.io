@@ -2,6 +2,7 @@
 layout: page
 title: "Biological sampling"
 meta_title: "Trident Systems' sampling programmes"
+subheadline: "Collecting key data for stock assessment"
 permalink: "/our-work/collecting-data/sampling/"
 header: no
 image:

@@ -2,6 +2,7 @@
 layout: page
 title: "Video observation"
 meta_title: "Trident's video observation programmes"
+subheadline: "Innovative fisheries monitoring"
 permalink: "/our-work/collecting-data/video-observation/"
 header: no
 image:
