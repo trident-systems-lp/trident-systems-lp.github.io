@@ -75,13 +75,15 @@ sitemap:
 
 .people {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-wrap: wrap;
 }
 
 .person {
-    flex: 0 0 140px;
+    flex: 0 0 110px;
+    margin: 0px 5px;
     p {
         line-height: 1.1;
+        text-align: center;
     }
 }
