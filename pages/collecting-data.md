@@ -4,7 +4,7 @@ title: Collecting Fisheries Data
 subheadline: "Measurement to support management"
 permalink: "/our-work/collecting-data/"
 ---
-Trident has focussed on two particular areas where data are required to support fisheries management:
+Trident has focussed on two particular areas where data are required to support fisheries research and management:
 
 + [biological sampling](/our-work/collecting-data/sampling "biological sampling") of catches
 + developing **video observation** to supplement traditional fisheries observer programmes
