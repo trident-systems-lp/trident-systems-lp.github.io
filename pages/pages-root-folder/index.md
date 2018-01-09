@@ -14,12 +14,12 @@ widget1:
   text: 'We develop innovative systems and processes for efficient data collection, achieving greater value from data, and implementing effective fisheries management.'
 widget2:
   title: "Apply"
-  url: '/about-us/'
+  url: '/our-work/'
   text: 'We apply these systems and processes to provide stock and/or fishery-specific research services that support timely and efficient fisheries management decision making.'
   image: apply_widget.jpg
 widget3:
   title: "Collaborate"
-  url: '/about-us/'
+  url: '/about-us/approach/'
   image: collaborate_widget.jpg
   text: 'We carry out these activities in collaboration with other researchers, efficiently utilising industry resources, and supporting industry involvement in fisheries management processes.'
 widget4:

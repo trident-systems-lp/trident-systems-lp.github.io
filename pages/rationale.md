@@ -18,9 +18,9 @@ industry organisations to be involved in the delivery of services.
 
 > "ITQs, with adequate enforcement, have been demonstrated to
 > effectively address the race to fish and result in improved
-> sustainability and profitability."
+> sustainability and profitability.
 >
-> "It is often suggested that the possession of ITQs should provide an
+> It is often suggested that the possession of ITQs should provide an
 > incentive for fishers to exercise stewardship of the resource. Quota holders
 > acting in their economic self-interest should collectively exercise
 > stewardship, setting TACs and supporting enforcement measures to maximize
@@ -30,13 +30,13 @@ industry organisations to be involved in the delivery of services.
 
 > "Setting and enforcing sensible fisheries management rules is crucial for
 > a good economic performance of the fishing activity.
-> ...
+>
 > it is well known that governments, due to fundamental problems of information
 > and incentives, tend to be inefficient providers of services in general.
 > Indeed, fisheries management conducted by many governments has been
-> found to be both ineffective and expensive."
+> found to be both ineffective and expensive.
 >
-> "under an ITQ system, the holders of ITQs are well placed to conduct the
+> under an ITQ system, the holders of ITQs are well placed to conduct the
 > necessary fisheries management functions themselves. Moreover, there are
 > many indications that they are able to provide these services significantly
 > more efficiently than the government."
@@ -82,8 +82,8 @@ questioned by some commentators. Within New Zealand, research intended or
 likely to inform fisheries management decisions is evaluated against the
 **Research and Science Information Standard for New Zealand Fisheries** (RSIS).
 
-> The primary, internationally-accepted mechanism for evaluating the quality
-> of research and science information is peer review
+> "The primary, internationally-accepted mechanism for evaluating the quality
+> of research and science information is peer review"
 > - Ministry for Primary Industries (2011)[^5]
 
 The RSIS establishes peer review as the principal process used to ensure the

@@ -2,7 +2,7 @@
 layout: page
 title: "News"
 permalink: "/news/"
-subheadline: "See where we have appeared in the media and our achievements."
+subheadline: "See where we have appeared in the media and our achievements"
 ---
 {% for post in site.catergories.design %}
     <div class="row">

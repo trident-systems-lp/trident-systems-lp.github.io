@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Collecting Fisheries Data
+subheadline: "Measurement to support management"
 permalink: "/our-work/collecting-data/"
 ---
-Biological sampling of catches is often required for stock assessment, and also has the potential to directly drive management procedures. In offshore fisheries, observers undertake this sampling, while the higher value inshore fisheries have well-developed industry programmes.
+Trident has focussed on two particular areas where data are required to support fisheries research and management:
 
-There are a number of challenges to sampling inshore finfish catches efficiently and effectively. Ultimately, however, all catches are in the hands of the industry, and industry is well placed to carry out the required sampling.
++ [biological sampling](/our-work/collecting-data/sampling "biological sampling") of catches
++ developing [video observation](/our-work/collecting-data/video-observation "video observation") to supplement traditional fisheries observer programmes
 
-To ensure that such sampling is of a high standard, and undertaken on an on-going basis, we will build systems and processes to provide reliable sampling in a cost effective manner.
+Both of these areas require working with the seafood industry to develop effective procedures for collecting high quality data that meet the needs of fisheries researchers.
