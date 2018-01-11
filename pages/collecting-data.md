@@ -3,6 +3,8 @@ layout: page
 title: Collecting Fisheries Data
 subheadline: "Measurement to support management"
 permalink: "/our-work/collecting-data/"
+header:
+    image_fullwidth: waves.jpg
 ---
 Trident has focussed on two particular areas where data are required to support fisheries research and management:
 

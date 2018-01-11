@@ -4,6 +4,8 @@ title: "Our Approach"
 meta_title: "Trident Systems' approach"
 permalink: "/about-us/approach/"
 subheadline: "How Trident Systems operates"
+header:
+    image_fullwidth: banner.jpg
 ---
 
 Key characteristics of Trident's approach to fisheries research are:

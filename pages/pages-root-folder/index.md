@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: homepage_header.jpg
+  image_fullwidth: homepage_colourshift.jpg
 widget1:
   title: "Develop"
   url: '/our-work/'
