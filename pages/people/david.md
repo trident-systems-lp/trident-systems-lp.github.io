@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: David Middleton
 subheadline: Chief Executive Officer
-permalink: "/our-people/david/"
+permalink: "/about-us/people/david/"
 ---
 David is a fisheries scientist who has been Chief Executive of Trident Systems since it was established in 2012.  He is committed to supporting credible fisheries management decisions by providing sound analyses, and works to make fisheries information accessible to a range of audiences.
 
