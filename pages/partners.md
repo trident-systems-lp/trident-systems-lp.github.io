@@ -20,6 +20,7 @@ Our Limited Partners are:
 + [{{ partner.name }}]({{ partner.url }})
 {% endfor %}
 
+> Kia kotahi te hoe
 
 ### Our Research Partners
 

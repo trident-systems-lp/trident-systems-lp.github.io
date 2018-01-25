@@ -17,6 +17,15 @@
 - name: 'Staff'
   people:
     - name: 'David Middleton'
-      role: 'CEO'
+      role: 'Chief Executive'
       img: 'david.jpg'
       url: 'david'
+    - name: 'Cara Halford'
+      role: 'Projects and admin'
+      img: 'david.jpg'
+      url: 'cara'
+    - name: 'Max Schofield'
+      role: 'Fisheries analyst'
+      img: 'david.jpg'
+      url: 'max'
+      
