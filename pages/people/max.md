@@ -8,4 +8,4 @@ Max is a scientist who has been working as a Fisheries Analyst at Trident System
 
 Max moved to Trident after completing a Masters Degree at [Victoria University of Wellington](https://www.victoria.ac.nz/), Max came through the Ministry for Primary Industries Postgraduate Scholarship in Quantitative Fisheries Science programme. His studies examined non-linear relationships between catch-per-unit-effort and population abudance using orange roughy as a focal species. 
 
-Max has a passion for the ocean and spend most of his recreational time fishing, spearfishing and surfing. 
+Max has a passion for the ocean and spends most of his recreational time fishing, spearfishing and surfing. 
