@@ -26,4 +26,5 @@
       url: 'cara'
     - name: 'Max Schofield'
       role: 'Fisheries analyst'
+      img: 'placeholder.jpg'
       url: 'max'
