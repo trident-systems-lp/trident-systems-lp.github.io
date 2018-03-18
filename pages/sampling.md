@@ -16,7 +16,7 @@ Biological sampling of catches is often required for stock assessment, and also 
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <a href="http://fonz.tridentsystems.co.nz"><img src="{{ site.urlimg }}Catch_Sampling_Logo.png" alt=""></a>
+      <img src="{{ site.urlimg }}Catch_Sampling_Logo.png" alt="">
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 

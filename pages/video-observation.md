@@ -16,7 +16,7 @@ Observational data collected on fishing vessels is routinely used by fisheries r
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <a href="http://fonz.tridentsystems.co.nz"><img src="{{ site.urlimg }}fisheye-logo.png" alt=""></a>
+      <img src="{{ site.urlimg }}fisheye-logo.png" alt="">
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
