@@ -4,7 +4,6 @@ title: "Video observation"
 meta_title: "Trident's video observation programmes"
 subheadline: "Innovative fisheries monitoring"
 permalink: "/our-work/collecting-data/video-observation/"
-header: no
 ---
 
 Observational data collected on fishing vessels is routinely used by fisheries researchers and managers to supplement data provided by fishers.  On larger vessels, such as the New Zealand deepwater fleet, observations are typically collected by fisheries observers carried as supernumeraries on a proportion of fishing trips.
@@ -17,7 +16,7 @@ Observational data collected on fishing vessels is routinely used by fisheries r
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <a href="http://fonz.tridentsystems.co.nz"><img src="{{ site.urlimg }}fisheye-logo.Catch_Sampling_Logo" alt=""></a>
+      <a href="http://fonz.tridentsystems.co.nz"><img src="{{ site.urlimg }}fisheye-logo.png" alt=""></a>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
