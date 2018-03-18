@@ -1,8 +1,10 @@
 ---
 layout: page-fullwidth
 title: Max Schofield
-subheadline: Fisheries data analyst
+subheadline: Fisheries Data Analyst
 permalink: "/about-us/people/max/"
+image:
+    title: people/trident-systems-banner-max.jpg
 ---
 Max has been working as a Fisheries Analyst at Trident Systems since 2015. His work often focuses on lower information inshore fish stocks, where he provides rapid analyses for a range of stakeholders.
 
