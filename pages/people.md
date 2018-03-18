@@ -2,6 +2,8 @@
 layout: page
 title: "Our People"
 permalink: "/about-us/people/"
+header:
+    image_fullwidth: waves.jpg
 ---
 
 {% for group in site.data.groups %}

@@ -2,6 +2,8 @@
 layout: page
 title: Effective Fisheries Management
 permalink: "/our-work/effective-management/"
+header:
+    image_fullwidth: boat.jpg
 ---
 The introduction of the majority of New Zealand's commercial fish stocks to the QMS has acted to prevent overcapacity in the industry and has constrained exploitation rates. But fisheries management is an ongoing process: unless a constant catch strategy is explicitly adopted, catch limits should change in response to changing stock abundance.  
 

@@ -3,6 +3,8 @@ layout: page
 title: "The rationale for Trident Systems"
 permalink: "/about-us/rationale/"
 subheadline: "Why Trident Systems?"
+header:
+    image_fullwidth: waves.jpg
 ---
 
 {% include alert info='Trident Systems is a seafood industry-owned

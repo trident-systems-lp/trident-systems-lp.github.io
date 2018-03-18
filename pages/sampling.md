@@ -5,8 +5,6 @@ meta_title: "Trident Systems' sampling programmes"
 subheadline: "Collecting key data for stock assessment"
 permalink: "/our-work/collecting-data/sampling/"
 header: no
-image:
-    title: Catch_Sampling_Logo.png
 ---
 
 Biological sampling of catches is often required for stock assessment, and also has the potential to directly drive management procedures. In New Zealand's offshore fisheries, observers usually undertake this sampling, but in inshore fisheries most catch sampling takes place ashore.
@@ -14,6 +12,8 @@ Biological sampling of catches is often required for stock assessment, and also 
 Historically, contracted catch sampling programmes were logistically challenging, and often struggled to achieve representative sampling. Industry logbook programmes were introduced as an alternative, but typically failed to deliver representative sampling consistently through time.
 
 While there are a number of challenges to sampling inshore finfish catches efficiently and effectively, ultimately all catches are in the hands of the seafood industry.  Trident's approach has been to work with Licensed Fish Receivers to make catch sampling a routine part of normal fish processing operations.
+
+<img class="t60" src="{{ site.urlimg }}Catch_Sampling_Logo.png" alt="" width="70%" align="middle">
 
 Our R&D resulted in:
 

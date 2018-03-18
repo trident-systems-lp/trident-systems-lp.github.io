@@ -39,4 +39,4 @@ Read more about:
 + [Our people](/about-us/people/ "Our people")
 + [Our partners](/about-us/partners/ "Our partners")
 
-<img class="t60" src="{{ site.urlimg }}TridentSystems_logo_full.png" alt="" width="50%">
+<img class="t60" src="{{ site.urlimg }}TridentSystems_logo_full.png" alt="" width="70%" align="middle">

@@ -4,6 +4,8 @@ title: "Our Partners"
 meta_title: "Trident Systems' partners"
 subheadline: "Working collaboratively to improve fisheries information"
 permalink: "/about-us/partners/"
+header:
+    image_fullwidth: waves.jpg
 ---
 
 Trident Systems is formally a Limited Partnership, and collaboration with other research providers is a key aspect of how we work.  
@@ -12,7 +14,7 @@ Trident Systems is formally a Limited Partnership, and collaboration with other 
 
 The Limited Partners in the Trident Systems Limited Partnership are quota owners who have decided to invest in R&D as part of their strategy to maintain the long-term value of their quota assets.
 
-> Kia kotahi te hoe
+{% include alert info='Kia kotahi te hoe' %}
 
 Trident's Limited Partners represent a significant proportion of quota in inshore finfish and deepwater "tier 2" stocks.  These are lower information stocks, the management of which is expected to benefit most from Trident's research.
 

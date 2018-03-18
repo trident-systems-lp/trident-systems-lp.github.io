@@ -3,6 +3,8 @@ layout: page-fullwidth
 title: Using Fisheries Data
 subheadline: "Getting greater value from data"
 permalink: "/our-work/using-data/"
+header:
+    image_fullwidth: boat.jpg
 ---
 New Zealand's commercial fisheries are data rich, but these data can be hard to access and interpret, and so are under-used.
 

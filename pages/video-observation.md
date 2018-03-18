@@ -5,8 +5,6 @@ meta_title: "Trident's video observation programmes"
 subheadline: "Innovative fisheries monitoring"
 permalink: "/our-work/collecting-data/video-observation/"
 header: no
-image:
-    title: fisheye-logo.png
 ---
 
 Observational data collected on fishing vessels is routinely used by fisheries researchers and managers to supplement data provided by fishers.  On larger vessels, such as the New Zealand deepwater fleet, observations are typically collected by fisheries observers carried as supernumeraries on a proportion of fishing trips.
@@ -14,6 +12,8 @@ Observational data collected on fishing vessels is routinely used by fisheries r
 Observer coverage has been more challenging to implement in inshore fisheries.  Smaller vessels struggle to accommodate fisheries observers and the fact that these vessels undertake shorter, weather-dependent trips makes use of human observers less efficient.
 
 Fishers in several inshore fisheries recognised that observational data is required, especially when assessing fisheries interactions with protected species, and have been keen to pursue video observation as a more efficient means of collecting observational data.  As a result, Trident Systems has worked with [Snap Information Technologies](http://snapithd.com) to adapt their innovative camera technology for use in fisheries monitoring programmes.
+
+<img class="t60" src="{{ site.urlimg }}fisheye-logo.png" alt="" width="70%" align="middle">
 
 Key innovations have been:
 
