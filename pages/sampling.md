@@ -11,9 +11,9 @@ Biological sampling of catches is often required for stock assessment, and also 
 
 <div class="row">
     <div class="medium-8 columns t30">
-      Historically, contracted catch sampling programmes were logistically challenging, and often struggled to achieve representative sampling. Industry logbook programmes were introduced as an alternative, but typically failed to deliver representative sampling consistently through time.
+      <p>Historically, contracted catch sampling programmes were logistically challenging, and often struggled to achieve representative sampling. Industry logbook programmes were introduced as an alternative, but typically failed to deliver representative sampling consistently through time.</p>
 
-      While there are a number of challenges to sampling inshore finfish catches efficiently and effectively, ultimately all catches are in the hands of the seafood industry.  Trident's approach has been to work with Licensed Fish Receivers to make catch sampling a routine part of normal fish processing operations.
+      <p>While there are a number of challenges to sampling inshore finfish catches efficiently and effectively, ultimately all catches are in the hands of the seafood industry.  Trident's approach has been to work with Licensed Fish Receivers to make catch sampling a routine part of normal fish processing operations.</p>
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
