@@ -12,7 +12,7 @@ Observational data collected on fishing vessels is routinely used by fisheries r
     <div class="medium-8 columns t30">
       <p>Observer coverage has been more challenging to implement in inshore fisheries.  Smaller vessels struggle to accommodate fisheries observers and the fact that these vessels undertake shorter, weather-dependent trips makes use of human observers less efficient.</p>
 
-      <p>Fishers in several inshore fisheries recognised that observational data is required, especially when assessing fisheries interactions with protected species, and have been keen to pursue video observation as a more efficient means of collecting observational data.  As a result, Trident Systems has worked with [Snap Information Technologies](http://snapithd.com) to adapt their innovative camera technology for use in fisheries monitoring programmes.</p>
+      <p>Fishers in several inshore fisheries recognised that observational data is required, especially when assessing fisheries interactions with protected species, and have been keen to pursue video observation as a more efficient means of collecting observational data.  As a result, Trident Systems has worked with <a href="http://snapithd.com">Snap Information Technologies</a> to adapt their innovative camera technology for use in fisheries monitoring programmes.</p>
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
