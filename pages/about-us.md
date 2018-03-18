@@ -5,8 +5,8 @@ meta_title: "About Trident Systems"
 permalink: "/about-us/"
 subheadline: "Over 5 years of development, partnerships and production"
 header: no
-image:
-    title: TridentSystems_logo_full.png
+header:
+    image_fullwidth: homepage_colourshift.jpg
 ---
 Trident Systems was established in 2012 to provide high quality research
 services supporting the effective and efficient management of New Zealand’s
@@ -38,3 +38,5 @@ Read more about:
 + [Our approach](/about-us/approach/ "Our approach") to fisheries research
 + [Our people](/about-us/people/ "Our people")
 + [Our partners](/about-us/partners/ "Our partners")
+
+<img class="t60" src="{{ site.urlimg }}TridentSystems_logo_full.png" alt="">

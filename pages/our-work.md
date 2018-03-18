@@ -3,6 +3,8 @@ layout: page
 title: "Our Work"
 subheadline: "Undertaking R&D and applying the outcomes"
 permalink: "/our-work/"
+header:
+    image_fullwidth: homepage_colourshift.jpg
 ---
 
 Trident undertakes two types of project:
