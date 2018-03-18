@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Biological sampling"
 meta_title: "Trident Systems' sampling programmes"
 subheadline: "Collecting key data for stock assessment"
@@ -9,11 +9,17 @@ header: no
 
 Biological sampling of catches is often required for stock assessment, and also has the potential to directly drive management procedures. In New Zealand's offshore fisheries, observers usually undertake this sampling, but in inshore fisheries most catch sampling takes place ashore.
 
-Historically, contracted catch sampling programmes were logistically challenging, and often struggled to achieve representative sampling. Industry logbook programmes were introduced as an alternative, but typically failed to deliver representative sampling consistently through time.
+<div class="row">
+    <div class="medium-8 columns t30">
+      Historically, contracted catch sampling programmes were logistically challenging, and often struggled to achieve representative sampling. Industry logbook programmes were introduced as an alternative, but typically failed to deliver representative sampling consistently through time.
 
-While there are a number of challenges to sampling inshore finfish catches efficiently and effectively, ultimately all catches are in the hands of the seafood industry.  Trident's approach has been to work with Licensed Fish Receivers to make catch sampling a routine part of normal fish processing operations.
+      While there are a number of challenges to sampling inshore finfish catches efficiently and effectively, ultimately all catches are in the hands of the seafood industry.  Trident's approach has been to work with Licensed Fish Receivers to make catch sampling a routine part of normal fish processing operations.
+    </div><!-- /.medium-8.columns -->
 
-<img class="t60" src="{{ site.urlimg }}Catch_Sampling_Logo.png" alt="" width="70%" align="middle">
+    <div class="medium-4 columns t30">
+      <a href="http://fonz.tridentsystems.co.nz"><img src="{{ site.urlimg }}Catch_Sampling_Logo.png" alt=""></a>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
 
 Our R&D resulted in:
 
