@@ -6,8 +6,33 @@ teaser: "The BCO 5 sampling programme is making good progress and we're introduc
 breadcrumb: true
 categories:
     - news
+header: no    
 image:
     title: news/BCO5/newsletter-header.png
 author: chalford
 ---
-Thank you for contributing to or showing an interest in the BCO 5 sampling programme
+>> Thank you for contributing to or showing an interest in the BCO 5 sampling programme
+
+<div class="show-for-small">
+<div class="row">
+  <div class="large-4 columns">
+      <div style="background: #D7D7D7; height: 137px;">
+        7 vessels contributed to the programme
+      </div>
+  </div>
+  <div class="large-4 columns">
+      <div style="background: #D7D7D7; height: 137px;">
+        51 landings provided to Ngāi Tahu Seafoods for sampling</div>
+  </div>
+  <div class="large-4 columns">
+      <div style="background: #D7D7D7; height: 137px;">
+        1,348 fish measured
+      </div>
+  </div>
+  <div class="large-4 columns">
+      <div style="background: #D7D7D7; height: 137px;">
+        427 otoliths collected
+      </div>
+  </div>
+</div>
+</div><!-- /.hide-for-small -->
