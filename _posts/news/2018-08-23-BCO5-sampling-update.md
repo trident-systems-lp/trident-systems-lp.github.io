@@ -12,8 +12,8 @@ image:
 author: chalford
 ---
 >> Thank you for contributing to or showing an interest in the BCO 5 sampling programme
+<!--more-->
 
-<div class="show-for-small">
 <div class="row">
   <div class="large-4 columns">
       <div style="background: #D7D7D7; height: 137px;">
@@ -35,4 +35,3 @@ author: chalford
       </div>
   </div>
 </div>
-</div><!-- /.hide-for-small -->
