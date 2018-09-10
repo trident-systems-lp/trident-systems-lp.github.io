@@ -14,24 +14,16 @@ author: chalford
 >> Thank you for contributing to or showing an interest in the BCO 5 sampling programme
 <!--more-->
 
-.headline-block-grid-4 {
-  @include block-grid(4);
-  color: white;
-  background: #2A6793;
-  text-align:center;
-  height: 137px;
-}
-
-<ul class="headline-block-grid-4">
-  <li><div>
+<ul class="small-block-grid-4">
+  <li><div style="color: white; background: #2A6793; height: 137px; text-align:center;">
     7 vessels contributed to the programme
   </div></li>
-  <li><div>
+  <li><div style="color: white; background: #2A6793; height: 137px; text-align:center;">
     51 landings provided to Ngāi Tahu Seafoods for sampling</div></li>
-  <li><div>
+  <li><div style="color: white; background: #2A6793; height: 137px; text-align:center;">
     1,348 fish measured
   </div></li>
-  <li><div>
+  <li><div style="color: white; background: #2A6793; height: 137px; text-align:center;">
     427 otoliths collected
   </div></li>
 </ul>
