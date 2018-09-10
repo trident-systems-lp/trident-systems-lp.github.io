@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "About Us"
 meta_title: "About Trident Systems"
@@ -27,7 +27,7 @@ management information needs.
 Trident Systems is a Limited Partnership, owned by thirteen limited partners
 and governed by the board of Trident Systems General Partner Limited.
 
-Trident has a small staff, and works with a number research collaborators.
+Trident has a small staff, and works with a number of research collaborators.
 
 ### Further information
 
