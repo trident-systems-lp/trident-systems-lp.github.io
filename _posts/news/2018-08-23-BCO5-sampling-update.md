@@ -15,15 +15,15 @@ author: chalford
 <!--more-->
 
 <ul class="small-block-grid-4">
-  <li><div style="color: white; background: #2A6793; height: 137px; text-align:center;">
+  <li><div style="color:white; background:#2A6793; height:137px; text-align:center; display:table-cell; vertical-align:middle; font-size:$font-size-h1">
     7 vessels contributed to the programme
   </div></li>
-  <li><div style="color: white; background: #2A6793; height: 137px; text-align:center;">
+  <li><div style="color:white; background:#2A6793; height: 137px; text-align:center; display:table-cell; vertical-align:middle; font-size:$font-size-h1">
     51 landings provided to Ngāi Tahu Seafoods for sampling</div></li>
-  <li><div style="color: white; background: #2A6793; height: 137px; text-align:center;">
+  <li><div style="color:white; background:#2A6793; height:137px; text-align:center; display:table-cell; vertical-align:middle; font-size:$font-size-h1">
     1,348 fish measured
   </div></li>
-  <li><div style="color: white; background: #2A6793; height: 137px; text-align:center;">
+  <li><div style="color:white; background:#2A6793; height:137px; text-align:center; display:table-cell; vertical-align:middle; font-size:$font-size-h1">
     427 otoliths collected
   </div></li>
 </ul>
