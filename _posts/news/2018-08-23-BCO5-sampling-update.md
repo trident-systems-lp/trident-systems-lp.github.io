@@ -14,7 +14,7 @@ author: chalford
 >> Thank you for contributing to or showing an interest in the BCO 5 sampling programme
 <!--more-->
 
-<ul class="small-block-grid-4">
+<ul class="small-block-grid-4 text-center">
   <li><div style="color:white; background:#2A6793;">
     7 vessels contributed to the programme
   </div></li>
