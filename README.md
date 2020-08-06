@@ -1,6 +1,6 @@
 ## Trident Systems website: *trident-systems-lp.github.io*
 
-This repository is the source of the main public website for Trident Systems LP.  When launched it will be linked to <http://www.tridentsystems.co.nz/>; it is developed using github pages and so can also be viewed at <http://trident-systems-lp.github.io/>.
+This repository is the source of the main public website for Trident Systems LP.  It is designed to be accessible at <http://www.tridentsystems.co.nz/>; it is developed using github pages and so can also be viewed at <http://trident-systems-lp.github.io/>.
 
 This is a static website using [GitHub pages](https://pages.github.com/) and the *Feeling Responsive* [Jekyll](https://jekyllrb.com) theme <http://phlow.github.io/feeling-responsive/>.
 
